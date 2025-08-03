@@ -1,47 +1,82 @@
-<h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
-<h3 align="center">A passionate MERN Stack Developer from India 🚀</h3>
+<h1 align="center">Hey there 👋, I'm Aryan Yadav</h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 MERN Specialist | 🛠️ Tech Explorer</h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Namaste+Dev+World+🌏;MERN+Stack+%3C%2FDeveloper%3E;Frontend+Fanatic+🔥;DSA+Learner+in+Progress..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-```json
-Frontend:  React.js, JavaScript, Tailwind CSS
-Backend:   Node.js, Express.js
-Database:  MongoDB
-Tools:     Git, GitHub, Postman, VS Code
+## 🧑‍💻 About Me
 
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aryan19801&theme=radical&no-frame=true&column=7" /> </p>
-
-📊 GitHub Stats & Streaks
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aryan19801&show_icons=true&theme=tokyonight" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan19801&theme=tokyonight" height="150" /> </p>
-
-💻 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan19801&layout=compact&theme=radical" /> </p>
-
-🐍 GitHub Contribution Snake
-<p align="center"> <img src="https://github.com/aryan19801/aryan19801/raw/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
-
-🌐 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a> <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> </p>
-
-I turn ☕ into full stack applications.  
-Also, I break things a lot — but I fix them too 😎.
-
+- 🛠️ Final Year CS Student @ MMMUT  
+- 💼 Actively looking for **Frontend/MERN Internships**
+- 🔥 Working on cool real-world projects & solving DSA
+- 🎯 Goal: Land a dev role at a product-based company
+- 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `Express`, `Git`, `Tailwind`
 
 ---
 
-### 🔁 What To Do:
+## 🚀 Tech Stack
 
-1. Paste this content into your README.md file.
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-2. Replace all placeholders like your-linkedin, your.email@example.com, your-portfolio.com, and yourhandle with your actual info.
+---
 
-3. Your GitHub username (aryan19801) is already in the links — update it only if it's different.
+## 📈 GitHub Stats
 
-4. The snake animation (snake.svg) requires a GitHub Actions setup — let me know if you want me to help you set that up.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan19801&theme=react" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan19801&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan19801&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🧩 Projects Worth Checking Out
+
+| Project | Tech | Live | Code |
+|--------|------|------|------|
+| 📝 Think_Board | MERN + Rate Limiting | [Live](https://think-board-w2ye.onrender.com) | [Code](https://github.com/aryan19801/Think_Board) |
+| 🎥 Video Call WebApp | WebRTC + Node + Socket.io | [Live Soon](#) | [Code](https://github.com/aryan19801/video-call-webapp) |
+| 💬 Chatify (in progress) | MERN + Socket + JWT | Coming Soon | Coming Soon |
+
+---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="mailto:aryanyadav.mmmut@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aryan19801/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+## 📍 Fun Fact
+
+```js
+const myMind = () => {
+  while(true) {
+    code();
+    eat("logic");
+    sleep(0);
+  }
+};
