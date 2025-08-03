@@ -14,6 +14,10 @@ jobs:
           github_user_name: aryan19801
           outputs: |
             dist/github-contribution-grid-snake.svg
+          # 👇👇 Customize appearance
+          color_snake: "#39FF14"      # bright neon green snake
+          color_dots: "#0A0F0D,#39FF14,#0A0F0D,#39FF14"  # dark background with bright contrast dots
+          svg_output_width: 800       # wider canvas
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4

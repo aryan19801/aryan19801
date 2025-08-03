@@ -11,9 +11,8 @@
 ---
 
 
-<!-- Snake contribution graph -->
 <p align="center">
-  <img src="https://github.com/aryan19801/aryan19801/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/aryan19801/aryan19801/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
